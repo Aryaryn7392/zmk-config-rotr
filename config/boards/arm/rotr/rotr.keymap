@@ -61,7 +61,7 @@
 		};
 		two {
 			//SLEEP | LOCK | F22
-			bindings = <&zed_em_kay2 &lt 4 zed_em_kay &kp F22>;
+			bindings = <&zed_em_kay2 &lt 4 &zed_em_kay &kp F22>;
 			sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
 		};
 		three {
