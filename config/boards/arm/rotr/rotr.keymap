@@ -5,8 +5,8 @@
 
 / {
     macros {
-        zed_em_kay2: zed_em_kay2 {
-            label = "ZM_zed_em_kay2";
+        zed_em_kay: zed_em_kay {
+            label = "ZM_zed_em_kay";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
@@ -20,8 +20,8 @@
 
 / {
     macros {
-        sleep: sleep {
-            label = "ZM_sleep";
+        zed_em_kay2: zed_em_kay2 {
+            label = "ZM_zed_em_kay2";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
