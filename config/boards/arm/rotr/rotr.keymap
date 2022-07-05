@@ -20,8 +20,8 @@
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
 		one {
-			//C_SLEEP | C_AL_LOCK | LCTRL + LSHIFT + D
-			bindings = <&kp C_SLEEP &lt 4 C_AL_LOCK &kp LCTRL + LSHIFT + D>;
+			//C_SLEEP | C_AL_LOCK | discord deafen
+			bindings = <&kp C_SLEEP &lt 4 C_AL_LOCK &kp F24>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
 		two {
