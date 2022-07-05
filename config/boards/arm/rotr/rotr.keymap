@@ -36,7 +36,7 @@
 		};
 		one {
 			//LOCK? | DISC MUTE | DISC DEAF
-			bindings = <ZM_zed_em_kay &lt 4 F23 &kp F24>;
+			bindings = <&zed_em_kay &lt 4 F23 &kp F24>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
 		two {
